@@ -1,0 +1,24 @@
+From 6e532b59dca68760396bea84919b004859aea478 Mon Sep 17 00:00:00 2001
+From: Emin <eminm@usf.edu>
+Date: Thu, 31 Aug 2023 22:02:30 -0400
+Subject: [PATCH] changes about fuad
+
+---
+ client3.py | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/client3.py b/client3.py
+index a9821e3..c40e449 100644
+--- a/client3.py
++++ b/client3.py
+@@ -30,6 +30,7 @@ N = 500
+ 
+ 
+ def getDataPoint(quote):
++    #Fuad xiyar
+     """ Produce all the needed values to generate a datapoint """
+     """ ------------- Update this function ------------- """
+     stock = quote['stock']
+-- 
+2.42.0.windows.2
+
